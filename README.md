@@ -7,8 +7,6 @@ _Soluções integradas de suporte técnico com IA para empresas que buscam efici
 <p align="center">
   | <a href ="#sobre"> Sobre</a>  |
   <a href ="#backlog"> Backlog do Produto</a>  |
-  <a href ="#dor">DoR</a>  |
-  <a href ="#dod">DoD</a>  |
   <a href ="#sprint"> Cronograma de Sprints</a>  |
   <a href ="#tecnologias">Tecnologias</a> |
   <a href ="#manual">Manual de Instalação</a>  | 
@@ -49,17 +47,6 @@ Fundada em 2024, a HelpDesk é uma plataforma de suporte técnico corporativo es
 
 ---
 
-## 🏃‍ DoR - Definition of Ready <a id="dor"></a>
-
-Não Definido...
-
-
-## 🏆 DoD - Definition of Done <a id="dod"></a>
-
-Não Definido...
-
----
-
 ## 📅 Cronograma de Sprints <a id="sprint"></a>
 
 | Sprint          |    Período    | Documentação                                     |
@@ -78,11 +65,6 @@ Não Definido...
 | 🔖 **SPRINT 11** | A Definir | Desenvolvimento Mobile - Frontend
 | 🔖 **SPRINT 12** | A Definir | Desenvolvimento Mobile - Backend
 | 🔖 **SPRINT 13** | A Definir | Desenvolvimento Mobile - Conexão com Banco de dados
-
-
-
-
-
 
 ## 💻 Tecnologias <a id="tecnologias"></a>
 
