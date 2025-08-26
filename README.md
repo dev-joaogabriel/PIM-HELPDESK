@@ -35,19 +35,17 @@ Fundada em 2024, a HelpDesk é uma plataforma de suporte técnico corporativo es
 | **Automação do Atendimento**     | Como usuário, quero respostas automáticas para problemas comuns usando base de conhecimento | Reduzir o tempo de espera com soluções rápidas e automáticas.            | Alta       |
 |                                  | Como técnico, quero que a plataforma sugira soluções baseadas em IA                         | Otimizar o tempo dos técnicos com sugestões inteligentes.                | Alta       |
 |                                  | Como gerente, quero automatizar tarefas repetitivas como abertura e fechamento de chamados  | Aumentar a eficiência do processo de atendimento.                        | Média      |
-| **Integração com Ferramentas**   | Como usuário, quero abrir chamados via e-mail ou chat corporativo integrado                 | Facilitar o registro de chamados pelos canais já usados.                 | Média      |
+| **Integração com Ferramentas**   | Como usuário, quero abrir chamados via chat corporativo integrado                           | Facilitar o registro de chamados pelos canais já usados.                 | Média      |
 |                                  | Como técnico, quero integração com sistemas de inventário e gerenciamento de ativos         | Obter informações detalhadas dos equipamentos para suporte mais preciso. | Média      |
 |                                  | Como gerente, quero integração com ferramentas de gestão de projetos                        | Alinhar demandas de TI com os projetos em andamento.                     | Baixa      |
 | **Inteligência Artificial**      | Como usuário, quero um chatbot para solucionar problemas simples                            | Resolver problemas sem precisar abrir chamado.                           | Alta       |
-|                                  | Como técnico, quero análise preditiva para identificar falhas antes do usuário perceber     | Atuar preventivamente para reduzir impactos.                             | Média      |
-|                                  | Como gerente, quero relatórios inteligentes que apontem gargalos e oportunidades            | Melhorar continuamente o atendimento com base em dados.                  | Média      |
+|                                  | Como técnico, quero análise e categorização dos chamados para o respectivo técnico          | Atuar preventivamente para reduzir impactos.                             | Média      |
+|                                  | Como gerente, quero relatórios inteligentes                                                 | Melhorar continuamente o atendimento com base em dados.                  | Média      |
 | **Experiência do Usuário**       | Como usuário, quero uma interface intuitiva para abrir e acompanhar chamados                | Facilitar o uso da plataforma e o acompanhamento do atendimento.         | Alta       |
 |                                  | Como técnico, quero acesso rápido ao histórico e informações do usuário                     | Agilizar o atendimento com contexto completo.                            | Alta       |
 |                                  | Como gerente, quero configurar níveis de acesso e permissões                                | Garantir segurança e controle de informações sensíveis.                  | Média      |
-| **Segurança e Compliance**       | Como gestor, quero autenticação multifator                                                  | Proteger o acesso à plataforma.                                          | Alta       |
-|                                  | Como empresa, preciso de criptografia e conformidade com LGPD/GDPR                          | Atender às normas de proteção de dados.                                  | Alta       |
+| **Segurança e Compliance**       | Como empresa, preciso de criptografia e conformidade com LGPD/GDPR                          | Atender às normas de proteção de dados.                                  | Alta       |
 |                                  | Como técnico, quero logs detalhados de acesso e alterações                                  | Garantir rastreabilidade e auditoria das ações realizadas.               | Média      |
-
 
 ---
 
