@@ -5,7 +5,7 @@
 _Soluções integradas de suporte técnico com IA para empresas que buscam eficiência e organização._
 
 <p align="center">
-  | <a href ="#sobre"> Desafio</a>  |
+  | <a href ="#sobre"> Sobre</a>  |
   <a href ="#backlog"> Backlog do Produto</a>  |
   <a href ="#dor">DoR</a>  |
   <a href ="#dod">DoD</a>  |
