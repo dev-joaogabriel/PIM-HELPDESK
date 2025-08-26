@@ -64,7 +64,7 @@ Não Definido...
 
 | Sprint          |    Período    | Documentação                                     |
 | --------------- | :-----------: | ------------------------------------------------ |
-| 🔖 **SPRINTS 1° Semestre 2025** | 10/03 - 30/03 | Adicionar link
+| 🔖 **SPRINTS 1° Semestre 2025** | 10/03 - 30/03 | [Sprint 1ºSem](https://github.com/dev-joaogabriel/PIM-HELPDESK/blob/main/Sprints%201%C2%BA%20Semestre%202025.md)
 | 🔖 **SPRINT 1**  | 01/03 a 31/05 | Realizar documentação do GITHUB e ajustar os Casos de Uso.
 | 🔖 **SPRINT 2** | A Definir | Conferencia e ajuste dos diagramas do projeto.
 | 🔖 **SPRINT 3** | A Definir | Desenvolvimento Web - Frontend
