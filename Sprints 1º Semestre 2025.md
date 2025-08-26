@@ -8,4 +8,3 @@
 | **Sprint 4**   | **Casos de Uso Descritivo:** <br>  • Documentação de interações e cenários alternativos                     | Explicitação textual dos fluxos de uso do sistema. |
 | **Sprint 5**   | **Modelagem UML:** <br>  • Desenvolvimento do Diagrama de Classes                                          | Representação da estrutura estática do sistema.  |
 | **Sprint 6**   | **Modelagem UML:** <br>  • Desenvolvimento do Diagrama de Sequência                                         | Modelagem dos fluxos de interação e execução.    |
-
