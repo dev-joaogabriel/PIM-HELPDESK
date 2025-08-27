@@ -14,6 +14,10 @@ _Soluções integradas de suporte técnico com IA para empresas que buscam efici
 </p>
 
 > Status do Projeto: Andamento...
+>
+> Relatório de Testes: Não Finalizado... 📊
+>
+> Pasta de Documentação: Não Finalizado... 📄
 
 ---
 
