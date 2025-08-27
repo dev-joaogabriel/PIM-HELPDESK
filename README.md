@@ -19,7 +19,7 @@ _Soluções integradas de suporte técnico com IA para empresas que buscam efici
 
 ## 📌 Sobre a HelpDesk <a id="sobre"></a>
 
-Fundada em 2024, a HelpDesk é uma plataforma de suporte técnico corporativo especializada em centralizar e automatizar o atendimento de TI. Nossa missão é transformar a experiência interna de suporte através de tecnologia de ponta e inteligência artificial aplicada. Afim de otimizar o tempo e a qualidade dos atendimentos de TI.
+Fundada em 2025, a HelpDesk é uma plataforma de suporte técnico corporativo especializada em centralizar e automatizar o atendimento de TI. Nossa missão é transformar a experiência interna de suporte através de tecnologia de ponta e inteligência artificial aplicada. Afim de otimizar o tempo e a qualidade dos atendimentos de TI.
 
 ---
 
