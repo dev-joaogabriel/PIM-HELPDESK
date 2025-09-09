@@ -8,8 +8,8 @@ _Soluções integradas de suporte técnico com IA para empresas que buscam efici
   | <a href ="#sobre"> Sobre</a>  |
   <a href ="#backlog"> Backlog do Produto</a>  |
   <a href ="#sprint"> Cronograma de Sprints</a>  |
+  <a href ="#cronograma"> Cronograma de Desenvolvimento</a>  |
   <a href ="#tecnologias">Tecnologias</a> |
-  <a href ="#manual">Manual de Instalação</a>  | 
   <a href ="#equipe"> Equipe</a> |
 </p>
 
@@ -69,6 +69,11 @@ Fundada em 2025, a HelpDesk é uma plataforma de suporte técnico corporativo es
 | 🔖 **SPRINT 11** | A Definir | Desenvolvimento Mobile - Frontend
 | 🔖 **SPRINT 12** | A Definir | Desenvolvimento Mobile - Backend
 | 🔖 **SPRINT 13** | A Definir | Desenvolvimento Mobile - Conexão com Banco de dados
+
+---
+## 📅 Cronograma de Desenvolvimento de Projeto <a id="cronograma"></a>
+
+[Confira de forma visual](https://github.com/users/dev-joaogabriel/projects/5/views/2)
 
 ## 💻 Tecnologias <a id="tecnologias"></a>
 
