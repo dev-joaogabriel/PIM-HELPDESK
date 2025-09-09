@@ -63,9 +63,9 @@ Fundada em 2025, a HelpDesk é uma plataforma de suporte técnico corporativo es
 | --------------- | :-----------: | ------------------------------------------------ |
 | 🔖 **SPRINTS 1° Semestre 2025** | 01/03 a 31/05 | [Sprint 1ºSem](https://github.com/dev-joaogabriel/PIM-HELPDESK/blob/main/Sprints%201%C2%BA%20Semestre%202025.md)
 | 🔖 **SPRINT 1**  | 19/08 a 26/08 | Realizar documentação do GITHUB e ajustar os Casos de Uso
-| 🔖 **SPRINT 2** | A Definir | Conferencia e ajuste dos diagramas do projeto
-| 🔖 **SPRINT 3** | A Definir | Desenvolvimento Web - Frontend
-| 🔖 **SPRINT 4** | A Definir | Desenvolvimento Web - Backend
+| 🔖 **SPRINT 2** | 26/08 a ? | Conferencia e ajuste dos diagramas do projeto
+| 🔖 **SPRINT 3** | 26/08 a 05/09 | Desenvolvimento Web - Frontend
+| 🔖 **SPRINT 4** | 05/09 a ? | Desenvolvimento Web - Backend
 | 🔖 **SPRINT 5** | A Definir | Desenvolvimento Web - Conexão com Banco de dados
 | 🔖 **SPRINT 6** | A Definir | Desenvolvimento Web - Integração IA
 | 🔖 **SPRINT 7** | A Definir | Desenvolvimento Desktop - Frontend
