@@ -29,25 +29,13 @@ Fundada em 2025, a HelpDesk é uma plataforma de suporte técnico corporativo es
 
 ## 📋 Backlog do Produto <a id="backlog"></a>
 
-| Tópico                            | User Story                                                                                  | Descrição                                                                | Prioridade |
-| -------------------------------- | ------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------ | ---------- |
-| **Centralização do Atendimento** | Como usuário, quero registrar chamados de suporte em uma única plataforma                   | Facilitar o registro e acompanhamento dos chamados em um único lugar.    | Alta       |
-|                                  | Como técnico de TI, quero visualizar todos os chamados em uma fila única e organizada       | Priorizar atendimentos de forma clara e organizada.                      | Alta       |
-|                                  | Como gerente, quero ter dashboards com status e volume de chamados em tempo real            | Permitir decisões rápidas baseadas em dados atualizados.                 | Média      |
-| **Automação do Atendimento**     | Como usuário, quero respostas automáticas para problemas comuns usando base de conhecimento | Reduzir o tempo de espera com soluções rápidas e automáticas.            | Alta       |
-|                                  | Como técnico, quero que a plataforma sugira soluções baseadas em IA                         | Otimizar o tempo dos técnicos com sugestões inteligentes.                | Alta       |
-|                                  | Como gerente, quero automatizar tarefas repetitivas como abertura e fechamento de chamados  | Aumentar a eficiência do processo de atendimento.                        | Média      |
-| **Integração com Ferramentas**   | Como usuário, quero abrir chamados via chat corporativo integrado                           | Facilitar o registro de chamados pelos canais já usados.                 | Média      |
-|                                  | Como técnico, quero integração com sistemas de inventário e gerenciamento de ativos         | Obter informações detalhadas dos equipamentos para suporte mais preciso. | Média      |
-|                                  | Como gerente, quero integração com ferramentas de gestão de projetos                        | Alinhar demandas de TI com os projetos em andamento.                     | Baixa      |
-| **Inteligência Artificial**      | Como usuário, quero um chatbot para solucionar problemas simples                            | Resolver problemas sem precisar abrir chamado.                           | Alta       |
-|                                  | Como técnico, quero análise e categorização dos chamados para o respectivo técnico          | Atuar preventivamente para reduzir impactos.                             | Média      |
-|                                  | Como gerente, quero relatórios inteligentes                                                 | Melhorar continuamente o atendimento com base em dados.                  | Média      |
-| **Experiência do Usuário**       | Como usuário, quero uma interface intuitiva para abrir e acompanhar chamados                | Facilitar o uso da plataforma e o acompanhamento do atendimento.         | Alta       |
-|                                  | Como técnico, quero acesso rápido ao histórico e informações do usuário                     | Agilizar o atendimento com contexto completo.                            | Alta       |
-|                                  | Como gerente, quero configurar níveis de acesso e permissões                                | Garantir segurança e controle de informações sensíveis.                  | Média      |
-| **Segurança e Compliance**       | Como empresa, preciso de criptografia e conformidade com LGPD/GDPR                          | Atender às normas de proteção de dados.                                  | Alta       |
-|                                  | Como técnico, quero logs detalhados de acesso e alterações                                  | Garantir rastreabilidade e auditoria das ações realizadas.               | Média      |
+Neste processo, foram levantadas e organizadas todas as funcionalidades, melhorias e correções necessárias para o desenvolvimento do sistema, com base nos requisitos do projeto. Cada item foi detalhado com descrições claras, prioridades definidas e estimativas iniciais, permitindo uma visão estruturada e priorizada das demandas.
+
+O Backlog do Produto foi estruturado em formato de tabela para facilitar o acompanhamento, atualização e planejamento das sprints futuras.
+
+Acesse a tabela do Backlog do Produto pelo link abaixo:
+
+[Link para a tabela de Backlog do Produto](https://github.com/dev-joaogabriel/PIM-HELPDESK/blob/main/Backlog%20do%20produto.md)
 
 ---
 
